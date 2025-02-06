@@ -37,7 +37,7 @@ I’m a Software Engineering undergraduate , passionate about UI/UX designing an
 
 <br/><br/><br/><br/>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="center">My Statistics:</h3>
 <p align="center">
