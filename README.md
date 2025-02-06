@@ -9,16 +9,16 @@ Hi, I'm Thepuli Kavindhya
 </h1>
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://komarev.com/ghpvc/?username=avishkaranaveera&label=Profile%20views&color=0e75b6&style=flat" alt="avishkaranaveera" />
+		<img src="https://komarev.com/ghpvc/?username=thepulikavindhya&label=Profile%20views&color=0e75b6&style=flat" alt="avishkaranaveera" />
 	</a>
 	<a href="https://github.com/avishkaranaveera">
-		<img src="https://img.shields.io/github/followers/avishkaranaveera?label=Followers" alt="avishkaranaveera" />
+		<img src="https://img.shields.io/github/followers/thepulikavindhya?label=Followers" alt="avishkaranaveera" />
 	</a>
 </p>
 <br/>
 <p align="center">
-	<a href="https://github.com/avishkaranaveera">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Enginnering+Student;Full+Stack+Web+Developer;Mobile+App+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
+	<a href="https://github.com/thepulikavindhya">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Enginnering+Student;Front End+Developer;UI+UX+Designer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -45,7 +45,7 @@ I’m a Software Engineering undergraduate , passionate about UI/UX designing an
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=avishkaranaveera&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=thepulikavindhya&theme=dark&show_icons=true&count_private=true" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=thepulikavindhya&theme=dark&hide_border=false" /> 
 </td>
