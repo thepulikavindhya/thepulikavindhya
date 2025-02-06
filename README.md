@@ -18,24 +18,23 @@ Hi, I'm Thepuli Kavindhya
 <br/>
 <p align="center">
 	<a href="https://github.com/thepulikavindhya">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Enginnering+Student;Front End+Developer;UI+UX+Designer;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Software+Enginnering+Student;Front+End+Developer;UI+UX+Designer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
-I’m a Software Engineering undergraduate , passionate about UI/UX designing and Frontend development. I'm always love to try new things .<br/><br /><br />
+I’m a Software Engineering undergraduate , passionate about UI/UX designing and Frontend development. I'm always love to try new things. <br/><br /><br />
 
 
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-- 🔭 I’m currently working on Frontend Web Development & Android Development.
-- 🌱 I’m currently learning Backend Development.
-- 🌱 I’m currently learning Devops.
-- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
+- 🔭 ’m currently working on UI/UX designing and Frontend Web Development.
+- 🌱 ’m currently learning Frontend languages like React-JS and Angular.
+- 👯 I’m looking to collaborate on UX designing and Frontend projects.
 - 🤔 I’m looking for help with Open source Contribution.
-- 💬 Ask me about Frontend and Android Development.
-- 😄 Pronouns: He/Him
+- 💬Ask me about Designing and Frontend.
+- 😄 Pronouns: She/Her
 
 <br/><br/><br/><br/>
 
