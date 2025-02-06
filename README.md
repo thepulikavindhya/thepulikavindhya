@@ -29,11 +29,13 @@ I’m a Software Engineering undergraduate , passionate about UI/UX designing an
 
 <img align="right" alt="GIF" src="https://owaisnoor.info/blog/wp-content/uploads/2019/03/maxresdefault.jpg" width="400" height="280" />
 
-🔭 I’m currently working on UI/UX designing and Frontend Web Development.
-🌱 I’m currently learning Frontend languages like React-JS and Angular.
-👯 I’m looking to collaborate on UX designing and Frontend projects.
-💬 Ask me about Designing and Frontend.
-😄 Pronouns: She/He
+- 🔭 I’m currently working on Frontend Web Development & Android Development.
+- 🌱 I’m currently learning Backend Development.
+- 🌱 I’m currently learning Devops.
+- 👯 I’m looking to collaborate with Fullstack Web and Android Developers.
+- 🤔 I’m looking for help with Open source Contribution.
+- 💬 Ask me about Frontend and Android Development.
+- 😄 Pronouns: He/Him
 
 <br/><br/><br/><br/>
 
@@ -61,10 +63,9 @@ I’m a Software Engineering undergraduate , passionate about UI/UX designing an
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/avishka ranaveera" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/22345746/kaveen-dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kaveen-dinethma" height="50" width="50" /></a>
-<a href="https://fb.com/kaveen dinethma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kaveen dinethma" height="50" width="50" /></a>
-<a href="https://instagram.com/kavee_dineth" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="50" width="50" /></a>
+<a href="http://www.linkedin.com/in/thepuli-kavindhya-1552bb2a2" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="kaveendinethma" height="50" width="50" /></a>
+<a href="https://www.instagram.com/thepuli_kavindhya?igsh=MmtzcmtvejJsNnJ1" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="kavee_dineth" height="50" width="50" /></a>
+
 </p>
 
 ---
